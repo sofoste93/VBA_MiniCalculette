@@ -13,7 +13,7 @@
 >
 > - Run the App
 >
-> ![runApp](https://user-images.githubusercontent.com/28387985/120244536-c1486080-c26a-11eb-9169-05cbd70df643.PNG)
+> ![runApp](https://user-images.githubusercontent.com/28387985/120244778-6feca100-c26b-11eb-9ea3-37cfff05e790.PNG)
 >
 
 >
